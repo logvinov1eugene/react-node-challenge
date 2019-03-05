@@ -1,0 +1,16 @@
+{
+  "name": "simple-rest",
+  "version": "1.0.0",
+  "description": "a dummy server with only one GET and one POST route",
+  "main": "index.js",
+  "repository": "git@github.com:weld-io/simple-rest.git",
+  "author": "Henric Malmberg",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
